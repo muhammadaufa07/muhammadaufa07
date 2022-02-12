@@ -17,12 +17,5 @@
 </p>
 
 
-<a href="https://github.com/muhammadaufa07">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadaufa07" />
-</a>
-<a href="https://github.com/anuraghazra/">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=muhammadaufa07" />
-</a>
-
 
 ![Muhammad Aufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadaufa07&count_private=true)
