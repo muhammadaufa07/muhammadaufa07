@@ -15,7 +15,3 @@
   <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=muhammadaufa07&layout=compact&include_all_commits=true&theme=algolia"/>
 </a>
 </p>
-
-
-
-![Muhammad Aufa's GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadaufa07&count_private=true)
