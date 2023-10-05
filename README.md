@@ -1,6 +1,6 @@
-# **Frogs don't fly**
+# **Android Developer**
   
-> An undergraduate Computer Science at Riau University. 
+> Computer Science.
  
 [comment]: # (<p align="left">)
 [comment]: # (<a href="https://github.com/muhammadaufa07">)
